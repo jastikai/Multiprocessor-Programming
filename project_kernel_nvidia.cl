@@ -1,3 +1,5 @@
+// Jaakko Astikainen 2024
+
 #include "project.h"
 
 __kernel void downsample(__global uchar4* image,
