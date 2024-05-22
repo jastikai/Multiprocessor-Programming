@@ -1,3 +1,5 @@
+// Jaakko Astikainen 2024
+
 #include "project.h"
 
 __kernel void downsample(__read_only image2d_t image,
